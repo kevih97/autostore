@@ -93,9 +93,28 @@ export default {
 
 **11.**  From your terminal run the command below "npm run dev" to load the Tailwind CSS
 
-**12.**  Open another terminal on your project folder again and run the command "php artisan serve" to start the project
 
-**13.**  To access the admin panel type your url project for example "http://127.0.0.1:8000/admin/login"
+**12.**  Go to "storage" folder to your main project
+
+**12.1** Create a new folder called "app"
+
+**12.2** Create a new folder called "framework"
+
+**12.3** Open the folder "framework" that you created and create 4 other folders "cache", "sessions", "testing", "views"
+
+```
+/* NOTE!!!!
+
+You should create those folders if aren't downloaded otherwise the project won't start
+ 
+*/
+
+```
+
+
+**13.**  Open another terminal on your project folder again and run the command "php artisan serve" to start the project
+
+**14.**  To access the admin panel type your url project for example "http://127.0.0.1:8000/admin/login"
 
 **--**  CREDENTIALS
 
